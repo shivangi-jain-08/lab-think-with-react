@@ -16,7 +16,7 @@
 // const container = document.getElementById("react-container");
 // ReactDOM.render(React.createElement(Container), container);
 
-//------------------------------------------------------------------------
+//-----------------------------------------------------------------------
 
 //REACT 4 | NOW IT'S CLASS TIME
 class ReactContainer extends React.Component {
